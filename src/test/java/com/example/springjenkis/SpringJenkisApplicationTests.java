@@ -14,6 +14,8 @@ class SpringJenkisApplicationTests {
 	void contextLoads() {
 		SpringJenkisApplicationTests.info("Test case executing");
 		assertEquals(2, 2);
+		assertEquals(2, 2);
+		assertEquals(2, 2);
 
 	}
 
